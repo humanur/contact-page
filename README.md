@@ -8,7 +8,6 @@ https://humanur.github.io/contact-page/
 
 ## Screenshots
 
-<!-- Create a `screenshots/` folder, add your images and keep or edit these lines -->
 
 <img width="1420" height="1381" alt="contact" src="https://github.com/user-attachments/assets/2b83dd45-3e15-4e2d-9e40-645c3f166f75" />
 
