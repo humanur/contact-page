@@ -30,3 +30,7 @@ Optional: open the folder in VS Code and use the Live Server extension to reload
 ## Limitations
 
 The form does not send data anywhere. It only checks the input and shows a confirmation message.
+
+## AI assistance
+
+I used an AI assistant to help with the first version of the code. I reviewed it, changed the texts and learned how each part works.
